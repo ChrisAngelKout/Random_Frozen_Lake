@@ -7,7 +7,7 @@ import time
 import random
 
 """
-File:   Koutounidis_2019030138.py
+File:   RandomFrozenLake.py
 Author: Koutounidis Christos-Angelos
 Description: Main program code. It has functions for the creation of the random
              Environment, the GUI and the "game-play" 
