@@ -1,7 +1,7 @@
 from RandomFrozenLake import RandomFrozenLake
 
 """
-File:   Koutounidis_2019030138.py
+File:   main.py
 Author: Koutounidis Christos-Angelos
 Description: Main call file for the program
 """
