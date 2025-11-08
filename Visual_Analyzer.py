@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 
 """
-File:   Koutounidis_2019030138.py
+File:   Visual_Analyzer.py
 Author: Koutounidis Christos-Angelos
 Description: Functions for the vizual analyzer
 """
